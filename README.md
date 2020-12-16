@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# Welcome to my Digital CV
 
-You can use the [editor on GitHub](https://github.com/pygdwt23/Curriculum-Vitae/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Personal Profile 
+Name: Prayogo Dewantoro
+###
+Date of Birth: 23 September 1995
+###
+Address: Telong-elong, Kecamatan Jerowaru, Kabupaten Lombok Timur, NTB.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contact
+Mobile: 085238886307
+###
+E-Mail: pygdwt@gmail.com
 
-### Markdown
+## Work Experience
+### BAWASLU NTB (Mar 2018 - Apr 2018)
+Internship Student (IT Support & Administration)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### PT Skyreach (Oct 2019 - Dec 2019)
+Engineer On Site Trainee (VSAT Installation & Preventive Maintenance)
 
-```markdown
-Syntax highlighted code block
+## Education History
+### Universitas Bumigora Mataram (2013 - 2019)
+Bachelor of Computer Science
 
-# Header 1
-## Header 2
-### Header 3
+## Organization
+### ISQA (Indonesian Software Quality Assurance)
+Member, 2020-Now
 
-- Bulleted
-- List
+## Technical Skills
+- Manual Testing (Web testing & API testing)
+- Functional Testing
+- Writing Test Case & Bug Reporting
+- HTML & CSS
 
-1. Numbered
-2. List
+## Soft Skills
+- Like to work with team cooperatively or individually
+- Have a strong willingness to learn
+- Have passion in software quality assurance
+- Like to solve a problem
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pygdwt23/Curriculum-Vitae/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Personal Statement
+```A fresh graduate with strong
+willingness to learn. I have basic
+skill in QA because I have been
+mentored by an experienced
+mentor who work as QA Specialist
+for several years in Moka POS. I
+am really passionate to work as
+QA tester. My goal is to be better
+as a person and as a professional
+everyday.```
