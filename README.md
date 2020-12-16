@@ -3,7 +3,7 @@
 ## Personal Profile 
 - Name: Prayogo Dewantoro
 - Date of Birth: 23 September 1995
--Address: Telong-elong, Kecamatan Jerowaru, Kabupaten Lombok Timur, NTB.
+- Address: Telong-elong, Kecamatan Jerowaru, Kabupaten Lombok Timur, NTB.
 
 ## Contact
 - Mobile: 085238886307
