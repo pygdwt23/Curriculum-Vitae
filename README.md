@@ -40,13 +40,4 @@ Member, 2020-Now
 - Like to solve a problem
 
 ## Personal Statement
-```A fresh graduate with strong
-willingness to learn. I have basic
-skill in QA because I have been
-mentored by an experienced
-mentor who work as QA Specialist
-for several years in Moka POS. I
-am really passionate to work as
-QA tester. My goal is to be better
-as a person and as a professional
-everyday.```
+```A fresh graduate with strong willingness to learn. I have basic skill in QA because I have been mentored by an experienced mentor who work as QA Specialist for several years in Moka POS. I am really passionate to work as QA tester. My goal is to be better as a person and as a professional everyday.```
